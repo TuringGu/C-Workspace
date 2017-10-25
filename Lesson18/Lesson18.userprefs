@@ -1,1 +1,12 @@
-﻿<Properties StartupItem="Lesson18\Lesson18.csproj" />
+﻿<Properties StartupItem="Lesson18\Lesson18.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson18\Program.cs">
+    <Files>
+      <File FileName="Lesson18\Program.cs" Line="79" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
