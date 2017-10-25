@@ -1,4 +1,4 @@
-D:\GameDevelop\Unity\C#Workspace\lesson09\lesson09\bin\Debug\lesson09.exe
-D:\GameDevelop\Unity\C#Workspace\lesson09\lesson09\bin\Debug\lesson09.pdb
-D:\GameDevelop\Unity\C#Workspace\lesson09\lesson09\obj\x86\Debug\lesson09.exe
-D:\GameDevelop\Unity\C#Workspace\lesson09\lesson09\obj\x86\Debug\lesson09.pdb
+D:\GameDevelop\Unity\C#Workspace\Lesson09\Lesson09\bin\Debug\Lesson09.exe
+D:\GameDevelop\Unity\C#Workspace\Lesson09\Lesson09\bin\Debug\Lesson09.pdb
+D:\GameDevelop\Unity\C#Workspace\Lesson09\Lesson09\obj\x86\Debug\Lesson09.exe
+D:\GameDevelop\Unity\C#Workspace\Lesson09\Lesson09\obj\x86\Debug\Lesson09.pdb
