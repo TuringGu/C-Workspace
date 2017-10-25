@@ -1,0 +1,4 @@
+D:\GameDevelop\Unity\C#Workspace\Lesson02\Lesson02\bin\Debug\Lesson02.exe
+D:\GameDevelop\Unity\C#Workspace\Lesson02\Lesson02\bin\Debug\Lesson02.pdb
+D:\GameDevelop\Unity\C#Workspace\Lesson02\Lesson02\obj\x86\Debug\Lesson02.exe
+D:\GameDevelop\Unity\C#Workspace\Lesson02\Lesson02\obj\x86\Debug\Lesson02.pdb

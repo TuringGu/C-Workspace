@@ -1,0 +1,4 @@
+D:\GameDevelop\Unity\C#Workspace\MyFirstGame\MyFirstGame\bin\Debug\MyFirstGame.exe
+D:\GameDevelop\Unity\C#Workspace\MyFirstGame\MyFirstGame\bin\Debug\MyFirstGame.pdb
+D:\GameDevelop\Unity\C#Workspace\MyFirstGame\MyFirstGame\obj\x86\Debug\MyFirstGame.exe
+D:\GameDevelop\Unity\C#Workspace\MyFirstGame\MyFirstGame\obj\x86\Debug\MyFirstGame.pdb

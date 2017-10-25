@@ -1,0 +1,5 @@
+D:\GameDevelop\Unity\C#Workspace\Lesson11\Lesson11\bin\Debug\Lesson11.exe
+D:\GameDevelop\Unity\C#Workspace\Lesson11\Lesson11\bin\Debug\Lesson11.pdb
+D:\GameDevelop\Unity\C#Workspace\Lesson11\Lesson11\obj\x86\Debug\Lesson11.exe
+D:\GameDevelop\Unity\C#Workspace\Lesson11\Lesson11\obj\x86\Debug\Lesson11.pdb
+D:\GameDevelop\Unity\C#Workspace\Lesson11\Lesson11\obj\x86\Debug\Lesson11.csprojResolveAssemblyReference.cache
